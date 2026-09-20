@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "F:/VESC/vesc_tool-master/vesc_tool-master/qmarkdowntextedit",
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
+}
