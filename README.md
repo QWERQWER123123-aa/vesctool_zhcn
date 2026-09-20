@@ -1,6 +1,6 @@
 # VESC Tool 中文版
 
-这是 **VESC Tool** 的中文版源码仓库。VESC Tool 是一套功能强大的 **VESC（Vedder Electronic Speed Controller）电机控制器配置与调试工具**，由 Benjamin Vedder 开发并维护。
+这是 **VESC Tool** 的中文版源码仓库。 VESC Tool 是一套功能强大的 **VESC（Vedder Electronic Speed Controller）电机控制器配置与调试工具**，由 Benjamin Vedder 开发并维护。
 
 VESC 是目前世界上最流行的开源无刷直流电机（BLDC）控制器之一，广泛应用于：
 
